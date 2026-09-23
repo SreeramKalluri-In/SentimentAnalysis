@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic
+pandas
+scikit-learn
+joblib
+beautifulsoup4
+lxml
+pymupdf
+pillow
+pytesseract
+python-multipart
+nltk
